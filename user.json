@@ -1,0 +1,1592 @@
+{
+    "data": [
+        {
+            "name": "FIME_FIP_0001",
+            "fip_id": "FIME_FIP_0001",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "ICICI_AMC",
+            "fip_id": "CAMC",
+            "fip_types": [
+                "SIP,MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "HDFC_AMC",
+            "fip_id": "HAMC",
+            "fip_types": [
+                "SIP,MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Fime India ALT FIP",
+            "fip_id": "FIME_FIP_ALT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "IndusInd Bank Ltd.",
+            "fip_id": "INDUSIND",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas FIP",
+            "fip_id": "aujas_fip",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Jio Payments Bank",
+            "fip_id": "JPBFIP0001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "BAJAJ FINSERV",
+            "fip_id": "bajaj-finserv-fip-uat",
+            "fip_types": [
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Alt Aujas Bank Dev",
+            "fip_id": "alt_aujas_fip_dev",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Bank cloud QA",
+            "fip_id": "alt_aujas_fip_qa",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Bank Dev",
+            "fip_id": "aujas_fip_dev",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Bank cloud QA",
+            "fip_id": "aujas_fip_qa",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Vittakosh Finvu Bank Ltd.",
+            "fip_id": "vittakoshbank",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "CLEARTAX TEST FIP",
+            "fip_id": "CLEARTAXTEST001",
+            "fip_types": [
+                "GST_GSTR1",
+                "GST_GSTR2A",
+                "GST_GSTR3B"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Vayana Network",
+            "fip_id": "vayana",
+            "fip_types": [
+                "GST",
+                "GST_GSTR1",
+                "GST_GSTR2A",
+                "GST_GSTR3B"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Bank Cloud",
+            "fip_id": "aujas_fip_cloud",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FEDERAL BANK",
+            "fip_id": "FDRLFIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "East Consultancy Services Pvt Ltd",
+            "fip_id": "ECSFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "HDFC Bank",
+            "fip_id": "HDFC-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Enabled"
+        },
+        {
+            "name": "ICICI Bank",
+            "fip_id": "ICICI-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Enabled"
+        },
+        {
+            "name": "ABC",
+            "fip_id": "abc-demo1",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Kotak Mahindra Bank",
+            "fip_id": "KOTAK-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "NSDL",
+            "fip_id": "NSDLFIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Alt FIP",
+            "fip_id": "aujas_alt_fip",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FinShareBankServer",
+            "fip_id": "finsharebank",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "STATE BANK OF INDIA",
+            "fip_id": "sbi-fip-uat",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "IDFC FIRST BANK",
+            "fip_id": "IDFC-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Axis Bank",
+            "fip_id": "AXIS001",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Enabled"
+        },
+        {
+            "name": "Karur Vysya Bank",
+            "fip_id": "KVB-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FINBIT FIP DEV",
+            "fip_id": "finbit-fip-dev",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FINBIT FIP UAT",
+            "fip_id": "finbit-fip-uat",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Fime India",
+            "fip_id": "FIP0003",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Indian Bank",
+            "fip_id": "IBFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "AUBank",
+            "fip_id": "AUBank-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Enabled"
+        },
+        {
+            "name": "FINBIT FIP Mock",
+            "fip_id": "FINBIT-FIP-TEST",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank Of India",
+            "fip_id": "UBI-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "NPS_UAT",
+            "fip_id": "NPS_UAT",
+            "fip_types": [
+                "NPS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FIPCAMS-UAT",
+            "fip_id": "FIPCAMS-UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bajaj Allianz Life Insurance",
+            "fip_id": "balic-fip",
+            "fip_types": [
+                "INSURANCE_POLICIES",
+                "ULIP"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Alt Aujas Bank Cloud 3",
+            "fip_id": "alt_aujas_fip_cloud_3",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aujas Bank Cloud 3",
+            "fip_id": "aujas_fip_cloud_3",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "HDFC Life Insurance",
+            "fip_id": "fip@hdfclifeuat",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Cams Depository",
+            "fip_id": "Cams Depository",
+            "fip_types": [
+                "EQUITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "ICICI Lombard GICL",
+            "fip_id": "fip@icicilombarduat",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Punjab National Bank",
+            "fip_id": "PNB-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Canara Bank",
+            "fip_id": "fip@canarabankuat",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bank Of India",
+            "fip_id": "BOI-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Karnataka Bank Ltd",
+            "fip_id": "KBL-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "India Overseas Bank",
+            "fip_id": "IOB-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Cams_insurance",
+            "fip_id": "Cams_insurance",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "TNGB",
+            "fip_id": "TNGB_UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FIME_FIP_0002",
+            "fip_id": "FIME_FIP_0002",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Yes Bank Ltd",
+            "fip_id": "YESB-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FIME_FIP_YF_0001",
+            "fip_id": "FIME_FIP_YF_0001",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FIME_ALT FIP_YF_0001",
+            "fip_id": "FIME_ALT FIP_YF_0001",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Aditya Birla Sun Life Insurance",
+            "fip_id": "absli-fip",
+            "fip_types": [
+                "INSURANCE_POLICIES",
+                "ULIP"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Cams ENPS",
+            "fip_id": "Cams ENPS",
+            "fip_types": [
+                "NPS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "CAMS Mutual Fund",
+            "fip_id": "CAMS_AMC_UAT",
+            "fip_types": [
+                "SIP",
+                "MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Central Bank",
+            "fip_id": "CENTRALFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Finacus TSP FIP",
+            "fip_id": "finacus-tsp-fip-uat",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Digio FIP Pvt. Limited",
+            "fip_id": "DIGIO_FIP",
+            "fip_types": [
+                " "
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance",
+            "fip_id": "iciciprudential-fip-uat",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "BANK OF BARODA",
+            "fip_id": "BARBFIP_UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Tata AIA Life Insurance",
+            "fip_id": "talic-fip",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Fincare Small Finance Bank",
+            "fip_id": "fip@fincaresfbuat",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "HDFC Ltd",
+            "fip_id": "HDFCLtd-FIP",
+            "fip_types": [
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Novel Patterns Private Limited",
+            "fip_id": "NPPL_FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Finvu Bank Ltd.",
+            "fip_id": "BARB0KIMXXX",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "fip_id": "sibl-uat-fip",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Karnataka Gramin Bank.",
+            "fip_id": "KARFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Pirimid FinTech",
+            "fip_id": "FIP-ID",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM_DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "fip_id": "BOM_FIP",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Kerala Gramin Bank",
+            "fip_id": "KERFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "SBI Life Insurance",
+            "fip_id": "sbilife-fip",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Punjab and Sind Bank",
+            "fip_id": "PSFIP",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bajaj Allianz General Insurance Company",
+            "fip_id": "bagic-fip",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "fip_id": "tcs-kychub-uat-fip",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Dhanagar Finvu Bank Ltd.",
+            "fip_id": "dhanagarbank",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "City Union Bank",
+            "fip_id": "fipuat_cityunionbank",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Simply",
+            "fip_id": "SIM001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Setu FIP",
+            "fip_id": "setu-fip",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM_DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "AQ",
+            "fip_id": "A01",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "GOVT_SECURITIES",
+                "CP"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Air co",
+            "fip_id": "FIP01",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "QAS",
+            "fip_id": "FIP001",
+            "fip_types": [
+                "DEPOSIT",
+                "REIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "jio",
+            "fip_id": "FIPTEST1",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "HP",
+            "fip_id": "FIPTEST2",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "apgvb",
+            "fip_id": "apgvb-fip-uat",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "kvgbank",
+            "fip_id": "kvgbank-fip-uat",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "apgb",
+            "fip_id": "apgb-fip-uat",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Alternate Aujas Bank Cloud",
+            "fip_id": "alternate_aujas_fip_cloud",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "kol",
+            "fip_id": "5",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Goods and Service Tax",
+            "fip_id": "FIPGSP001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "plan BANK",
+            "fip_id": "MASTER00123",
+            "fip_types": [
+                "DEPOSIT",
+                "CIS",
+                "AIF",
+                "NPS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "National Securities Depository Limited",
+            "fip_id": "fip@uat.nsdl",
+            "fip_types": [
+                "EQUITIES",
+                "CIS",
+                "BONDS",
+                "MUTUAL_FUNDS",
+                "IDR",
+                "AIF",
+                "INVIT",
+                "REIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Paschim Banga Gramin Bank",
+            "fip_id": "PBG-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "CRIF CONNECT PRIVATE LIMITED",
+            "fip_id": "CRIF-CONNECT-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Saptagiri Grameena Bank",
+            "fip_id": "SGB_FIP_UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "PBGB",
+            "fip_id": "PBGB_FIP_UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "CRIF CONNECT PRIVATE LIMITED SECONDARY",
+            "fip_id": "CRIF-CONNECT-UAT-FIP-ALT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "PNB MetLife India Insurance",
+            "fip_id": "PNBMETLIFE-FIP",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Max Life Insurance",
+            "fip_id": "MLI-FIP",
+            "fip_types": [
+                "INSURANCE_POLICIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Goods and Service Tax",
+            "fip_id": "GAST01",
+            "fip_types": [
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Kfin Technologies Limited (Mutual Fund)",
+            "fip_id": "kfinmf-fip-uat",
+            "fip_types": [
+                "MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "master heath care",
+            "fip_id": "MASTER012",
+            "fip_types": [
+                "TERM-DEPOSIT",
+                "BONDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bank Ltd",
+            "fip_id": "FIPGSP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Electronic Payment &amp; Services",
+            "fip_id": "EPSFIP001",
+            "fip_types": [
+                " "
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Heath care",
+            "fip_id": "HC001",
+            "fip_types": [
+                "INSURANCE_POLICIES",
+                "INVIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "PROTEAN_FIP_UAT",
+            "fip_id": "PROTEAN_FIP_UAT",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM_DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS",
+                "INVIT",
+                "REIT",
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Acme Bank Ltd.",
+            "fip_id": "ACME-FIP",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "INSURANCE_POLICIES",
+                "EQUITIES",
+                "MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "UCO Bank",
+            "fip_id": "UCOB-UAT-FIP",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "FIPTallyEdge",
+            "fip_id": "FIPTALLYEDGE",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Fedral",
+            "fip_id": "FedRal001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Cams RTA_uat",
+            "fip_id": "Cams RTA_uat",
+            "fip_types": [
+                "SIP,MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Central Depository Services Limited",
+            "fip_id": "CDSLFIP",
+            "fip_types": [
+                "EQUITIES",
+                "MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Bank Tech",
+            "fip_id": "Bank Tech-001 #001",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "MUTUAL_FUNDS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@!",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@$1",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@%",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@^",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@&amp;*()*-",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@&amp;",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@*()",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@*",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@(",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union-Bank_@)",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank)",
+            "fip_id": "Union Bb #&amp;()",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Union Bank",
+            "fip_id": "Union Bb",
+            "fip_types": [
+                "GOVT_SECURITIES"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "AV FIP ltd",
+            "fip_id": "FIP10001768",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Kfin Technologies Limited (NPS)",
+            "fip_id": "kfinnps-fip-uat",
+            "fip_types": [
+                "NPS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "People Bank",
+            "fip_id": "PeopleBank@_-001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "People Bank",
+            "fip_id": "Bank-001",
+            "fip_types": [
+                "DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "AQM Tech FIP",
+            "fip_id": "aqm-fip-uat",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "ISOLVE",
+            "fip_id": "ISOLVE-TSP-FIP",
+            "fip_types": [
+                "DEPOSIT",
+                "TERM-DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "SIP",
+                "CP",
+                "GOVT_SECURITIES",
+                "EQUITIES",
+                "BONDS",
+                "DEBENTURES",
+                "MUTUAL_FUNDS",
+                "ETF",
+                "IDR",
+                "CIS",
+                "AIF",
+                "INSURANCE_POLICIES",
+                "NPS"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Goods and Services Tax Network",
+            "fip_id": "GSTN-FIP-TEST",
+            "fip_types": [
+                "OTHER"
+            ],
+            "status": "Disabled"
+        },
+        {
+            "name": "Millennium Bank",
+            "fip_id": "fip@finbank",
+            "fip_types": [
+                "DEPOSIT",
+                "RECURRING_DEPOSIT",
+                "TERM-DEPOSIT",
+                "INSURANCE_POLICIES",
+                "MUTUAL_FUNDS",
+                "EQUITIES"
+            ],
+            "status": "Disabled"
+        }
+    ],
+    "traceId": "1-648b076f-079da9c6742fd5d955fe86fe"
+}
